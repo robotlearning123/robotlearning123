@@ -20,27 +20,12 @@ I build **learning-based robots** and **AI agents** that act in the physical wor
 
 **Robot Learning & Embodied AI**
 - [`awesome-isaac-gym`](https://github.com/robotlearning123/awesome-isaac-gym) — Curated resources for GPU-accelerated robot learning · **1.2k ⭐**
-- [`dual_ur5_husky_mujoco`](https://github.com/robotlearning123/dual_ur5_husky_mujoco) — Mobile manipulation platform · backs my most-cited paper (140+ citations)
+- [`dual_ur5_husky_mujoco`](https://github.com/robotlearning123/dual_ur5_husky_mujoco) — Mobile manipulation simulation: dual UR5 arms on a Husky base in MuJoCo
 - [`mujoco-mcp`](https://github.com/robotlearning123/mujoco-mcp) — Control MuJoCo simulations from any LLM via the Model Context Protocol
 
 **AI Agents**
 - [`gemini-robotics-er-playground`](https://github.com/robotlearning123/gemini-robotics-er-playground) — Hands-on playground for Gemini Robotics-ER
 - [`chatgpt2agent`](https://github.com/robotlearning123/chatgpt2agent) — Turning chat models into tool-using agents
-
----
-
-#### 📄 Selected work
-
-20+ peer-reviewed publications across **robot learning, deep RL, and mobile manipulation** — venues incl. **RSS, IROS, IEEE Sensors, IEEE Access**.
-<br>📚 Full list & metrics → **[Google Scholar](https://scholar.google.com/citations?user=U0yWWhwAAAAJ)**
-
----
-
-#### 🤝 Open to
-
-- **Research Scientist / Applied Scientist** roles in robot learning, embodied AI, foundation models for robotics
-- **Faculty positions** (assistant professor, robotics / embodied AI / AI for science)
-- **Collaborations** at the intersection of robotics, agents, and biology / neuroscience
 
 ---
 
