@@ -2,7 +2,6 @@
 
 **Building physical AI for science** — Robot Learning · Embodied AI · AI Agents
 <br>Researcher @ Massachusetts General Hospital · Harvard University · Boston, MA
-<br>PhD in Robot Learning (CAS, 2022) · Prev. TU Delft · Edinburgh Centre for Robotics
 
 ---
 
