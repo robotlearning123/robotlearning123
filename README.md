@@ -35,9 +35,4 @@ I build **learning-based robots** and **AI agents** that act in the physical wor
 
 ---
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=robotlearning123&show_icons=true&hide_border=true&count_private=true" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=robotlearning123&layout=compact&hide_border=true&langs_count=8" height="160" />
-</p>
-
 <sub><i>"The best way to predict the future is to build it — one robot, one agent, one experiment at a time."</i></sub>
